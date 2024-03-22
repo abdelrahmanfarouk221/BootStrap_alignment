@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.row {
+    height: 500px;
+    border:5px solid rgb(123, 13, 13); 
+    
+}
+.row *{
+  height: fit-content; 
+}
+
+
